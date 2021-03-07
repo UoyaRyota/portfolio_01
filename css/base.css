@@ -89,7 +89,7 @@ img {
 
 .button-arrow-right {
   -webkit-appearance: none;
-  background: #000000 url(/img/icon-arrow-right.png) no-repeat center right 12px/17px 16px;
+  background: #000000 url(img/icon-arrow-right.png) no-repeat center right 12px/17px 16px;
   -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
           box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
   text-align: center;
@@ -459,7 +459,7 @@ img {
 }
 
 .news {
-  background-image:url(/img/jacqueline-brandwayn-5bL80OGskxw-unsplash.jpg);
+  background-image:url(img/jacqueline-brandwayn-5bL80OGskxw-unsplash.jpg);
   background-color:rgba(255,255,255,0.8);
   background-blend-mode:lighten;
   background-size:cover;
@@ -598,7 +598,7 @@ img {
   margin-left: 10px;
   vertical-align: middle;
   margin-top: -1px;
-  background: transparent url(/img/news-arrow.png) no-repeat center center/contain;
+  background: transparent url(img/news-arrow.png) no-repeat center center/contain;
 }
 
 .table {
@@ -984,7 +984,7 @@ img {
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
-  background: transparent url(/img/select-arrow.png) no-repeat center right 12px/17px 14px;
+  background: transparent url(img/select-arrow.png) no-repeat center right 12px/17px 14px;
   border-radius: 0;
   color: inherit;
   cursor: pointer;
@@ -1103,7 +1103,7 @@ img {
   left: 0;
   width: 25px;
   height: 25px;
-  background: transparent url(/img/icon-check.png) no-repeat center center/contain;
+  background: transparent url(img/icon-check.png) no-repeat center center/contain;
   -webkit-transition: opacity 0.3s ease 0s;
   transition: opacity 0.3s ease 0s;
   opacity: 0;
