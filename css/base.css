@@ -467,7 +467,7 @@ img {
 }
 
 .bg-img-zoom {
-  background-image: url(/img/kam-idris-_HqHX3LBN18-unsplash.jpg);
+  background-image: url(../img/kam-idris-_HqHX3LBN18-unsplash.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -582,10 +582,10 @@ img {
 
 /* news */
 .news {
-  background-image: url(/img/toa-heftiba-KQ1n6HzSahY-unsplash.jpg);
+  background-image: url(../img/toa-heftiba-KQ1n6HzSahY-unsplash.jpg);
+  background-color:rgba(255,255,255,0.8);
+  background-blend-mode:lighten;
   background-size: cover;
-  opacity: 0.3;
-  z-index: 1;
 }
 
 .news__inner {
